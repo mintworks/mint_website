@@ -32,7 +32,7 @@ instagram_username:  mint_ultimate
 facebook_username:  mintultimatemunich
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
