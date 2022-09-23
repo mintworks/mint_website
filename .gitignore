@@ -1,2 +1,6 @@
 .idea/*
 **/idea/*
+.vendor/*
+**/vendor/*
+_site/*
+**/_site/*
