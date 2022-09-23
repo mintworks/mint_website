@@ -18,17 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: MINT Ultimate
+email: yougotmint@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Munich International Ultimate Frisbee
+  MINT stands for Munich International. We are a mixed ultimate team of Germans,
+  expats and everything in between. We are always happy to welcome new players who have at least basic ultimate experience.
 baseurl: "/mint_website/" # the subpath of your site, e.g. /blog
 domain: "mintworks.github.io"
 url: "https://mintworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+instagram_username:  mint_ultimate
+facebook_username:  mintultimatemunich
 
 # Build settings
 theme: minima
