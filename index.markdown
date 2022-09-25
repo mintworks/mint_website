@@ -12,7 +12,7 @@ title: Home
 
 Throughout the year, we hit up a variety of grass and beach tournaments around Germany, Spain, Italy, Austria, Poland and other nearby countries. We believe in playing hard as long as we’re always having a damn good time doing it. Come join us!
 
-
+ 
 {% render_time page rendered at: %}
 
 ## Join our training
