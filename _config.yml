@@ -36,6 +36,11 @@ facebook_username:  mintultimatemunich
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Enable safe mode
+safe: false
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +61,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+  - _plugins/
