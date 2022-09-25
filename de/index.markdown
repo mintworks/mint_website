@@ -1,10 +1,12 @@
 ---
 layout: home
-lang: en
+lang: de
 ref: home
 title: Home
 
 ---
+
+DE
 
 ## Who are we?
 
@@ -18,12 +20,12 @@ Throughout the year, we hit up a variety of grass and beach tournaments around G
 **Monday:** 19:30-21:30  
 ESV Freimann  
 **Sunday:** 13:00-15:15  
-ESV Freimann
-
+ESV Freimann  
+  
 **Closed ComMINTment Practice**  
 **Wednesday:** 20:00-22:00  
-ESV Freimann
-
+ESV Freimann  
+  
 **Gardening Session**  
 **Thursday:** 18:45-20:00  
 Sprints & throwing  
